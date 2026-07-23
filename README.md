@@ -16,18 +16,6 @@ A classic Snake Game developed in **Java** using **Swing** and **AWT**. The obje
 
 ---
 
-## 📸 Preview
-
-> Add a screenshot of the game here.
-
-Example:
-
-```
-assets/screenshot.png
-```
-
----
-
 ## 🛠️ Technologies Used
 
 - Java
@@ -44,8 +32,6 @@ Java-Snake-Game/
 │
 ├── SnakeGame.java
 ├── README.md
-└── assets/
-    └── screenshot.png
 ```
 
 ---
@@ -60,7 +46,7 @@ Java-Snake-Game/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Java-Snake-Game.git
+git clone https://github.com/Manoj070037/Snake-Game.git
 ```
 
 ### Navigate to the Project
@@ -139,14 +125,8 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
-
----
-
 ## 👨‍💻 Author
 
-Developed by **Your Name**
+Developed by **Manoj J**
 
 If you found this project helpful, consider giving it a ⭐ on GitHub!
